@@ -1,0 +1,15 @@
+[package]
+name = "rustin"
+version = "0.1.0"
+authors = ["Jimmy Cuadra <jimmy@jimmycuadra.com>"]
+description = "An OpenChatOps compliant chat bot."
+license = "MIT"
+readme = "README.md"
+keywords = ["chat", "bot", "chatbot", "chatops", "openchatops"]
+repository = "https://github.com/openchatops/rustin"
+homepage = "https://github.com/openchatops/rustin"
+
+[[bin]]
+name = "rustin"
+path = "src/main.rs"
+doctest = false
