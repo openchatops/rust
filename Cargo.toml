@@ -1,12 +1,13 @@
 [package]
 authors = ["Jimmy Cuadra <jimmy@jimmycuadra.com>"]
-description = "An OpenChatOps compliant chat bot."
-homepage = "https://github.com/openchatops/rustin"
+description = "An OpenChatOps library for Rust."
+documentation = "https://openchatops.github.io/rust/oco/"
+homepage = "https://github.com/openchatops/rust"
 keywords = ["chat", "bot", "chatbot", "chatops", "openchatops"]
 license = "MIT"
-name = "rustin"
+name = "oco"
 readme = "README.md"
-repository = "https://github.com/openchatops/rustin"
+repository = "https://github.com/openchatops/rust"
 version = "0.1.0"
 
 [dependencies]

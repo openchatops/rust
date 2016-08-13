@@ -1,5 +1,4 @@
-//! **Rustin** is an [OpenChatOps](https://github.com/openchatops/spec) library for
-//! Rust.
+//! Crate **oco** is an [OpenChatOps](https://github.com/openchatops/spec) library for Rust.
 
 extern crate futures;
 extern crate protobuf;

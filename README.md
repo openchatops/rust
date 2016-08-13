@@ -1,7 +1,8 @@
-# Rustin
+# OCO
 
-**Rustin** is a chat bot. It is the reference implementation for the [OpenChatOps specification](https://github.com/openchatops/spec).
+Crate **oco** is an implementation of the [OpenChatOps specification](https://github.com/openchatops/spec) in [Rust](https://www.rust-lang.org/).
 
 ## License
 
-Rustin is available under the [MIT License](http://opensource.org/licenses/MIT). See the attached LICENSE file.
+Available under the [MIT License](http://opensource.org/licenses/MIT).
+See the attached LICENSE file.
